@@ -1,0 +1,19 @@
+{
+  "name": "hoja-de-trabajo-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Programacion"
+  ],
+  "author": "Edison Escobar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10",
+    "require": "^2.4.20"
+  }
+}
